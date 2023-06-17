@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Pursuing 3rd year Btech<br>👯 I’m looking to collaborate on Internships<br>🌱 I’m currently learning Frontend Frameworks ,DSA etc..<br>
+👋 I'm Nikhileswari Puvvula , A passionate webdeveloper and DataScience Engineer<br>🔭 I’m currently Pursuing 3rd year Btech<br>👯 I’m looking to collaborate on Internships<br>🌱 I’m currently learning Frontend Frameworks ,DSA etc..<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhileswari-puvvula-8694b7215) 
