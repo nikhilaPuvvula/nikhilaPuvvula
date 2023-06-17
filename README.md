@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhileswari Puvvula</h1>
 <h3 align="center">A passionate webdeveloper and DataScience Engineer</h3>
-
+<img aligh="right" alt="coding" width="400" src="github.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilapuvvula&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilapuvvula" /> </p>
 
 - 🌱 I’m currently learning **Frond-end frameworks...**
