@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm Nikhileswari Puvvula , A passionate webdeveloper and DataScience Engineer<br>🔭 I’m currently Pursuing 1th year Mtech(IIT Bhubaneshwar)<br>👯 I’m looking to collaborate on Internships<br>🌱 I’m an Entusiastic Learner<br>
+👋 I'm Nikhileswari Puvvula , A passionate webdeveloper and DataScience Engineer<br>🔭 I’m currently Pursuing Mtech in AI(IIT Bhubaneshwar)<br>👯 I’m looking to collaborate on Internships<br>🌱 I’m an Entusiastic Learner<br>
 <img alt="Competitive Programmer FrontEnd Developer" align="right" width=100px height=100px src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhileswari-puvvula-8694b7215) 
